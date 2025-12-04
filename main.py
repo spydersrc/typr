@@ -52,7 +52,7 @@ def human_error(whentofix, errorchance):
 
 
 def main(): 
-    print("Welcome to Auto Typer with Human Error Simulation!")
+    print("Welcome to Typr with Human Error Simulation!")
     print("Make sure you have a text.txt file in the same directory as this script. It will read from that file your text.")
     fixerror = input("Do you want to simulate human error? (yes/no): ") 
     wpm = input("Enter your typing speed in WPM: ")
