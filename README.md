@@ -24,7 +24,7 @@
 # Clone the repository
 git clone https://github.com/spyder-live/typr.git
 cd typr
-
+# Make sure to edit text.txt with your text!
 # Run typr 
 python3 main.py 
 
